@@ -1,0 +1,8 @@
+## ignore git lfs files
+*.dta.zip
+*.msf
+*.pdResult
+*.mgf
+*.raw
+## .gitignore
+*.Rhistory

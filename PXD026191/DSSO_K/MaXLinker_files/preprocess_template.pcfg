@@ -1,0 +1,30 @@
+##1: Mass spectrometry file input
+#
+Input_path=C:/Users/P42587/Documents/PXD026191/maxlinker_files
+#
+MS2=202001216_nsp7_trypsin_XL_REP1_[Node_07].mgf
+#
+MS3=202001216_nsp7_trypsin_XL_REP1_[Node_09].mgf
+#
+MS3_MSn-1=202001216_nsp7_trypsin_XL_REP1_MS3.mgf
+#
+MS2_DeisoDeconv=202001216_nsp7_trypsin_XL_REP1_[Node_05].mgf
+
+##2: Output
+#
+Output_path=.
+#
+Output_file_suffix=202001216_nsp7_trypsin_XL_REP1_MS2_rescue.mgf
+
+##3: Linker parameters
+#
+Linker_mass=158.003766
+#
+Linker_long_mass=85.982637
+#
+Linker_short_mass=54.010565
+
+##4: Multithreading
+#Maximum no. of threads
+No_of_threads=1
+

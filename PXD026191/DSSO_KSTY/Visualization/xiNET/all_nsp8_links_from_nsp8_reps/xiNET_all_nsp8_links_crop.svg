@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="networkSVG"
+   width="1193.1332"
+   height="457.7421"
+   style="display:block"
+   version="1.1"
+   sodipodi:docname="xiNET_all_nsp8_links_crop.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1388" />
+  <sodipodi:namedview
+     id="namedview1386"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="436.28488"
+     inkscape:cy="134.35029"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="networkSVG" />
+  <g
+     id="container"
+     transform="translate(-328.56066,-294.61954)">
+    <g
+       id="p_pLinksWide" />
+    <g
+       id="proteinLower">
+      <g
+         class="protein lowerGroup"
+         transform="translate(986,711)"
+         id="g1114">
+        <rect
+           stroke="#ffff99"
+           stroke-width="5"
+           fill="none"
+           stroke-opacity="1"
+           ry="0"
+           rx="0"
+           y="-12.5"
+           x="-508.46463"
+           height="25"
+           width="1022.066"
+           id="rect1108" />
+        <g
+           opacity="1"
+           id="g1110" />
+        <g
+           transform="scale(40.5,1)"
+           id="g1112" />
+      </g>
+    </g>
+    <g
+       class="highlights"
+       id="g1117" />
+    <g
+       id="res_resLinks" />
+    <g
+       id="p_pLinks" />
+    <g
+       id="proteinUpper">
+      <g
+         class="protein upperGroup"
+         transform="translate(986,711)"
+         id="g1375">
+        <g
+           id="g1187">
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -143.82751,0 q 0,-13 0,-13 a 20.54679,20.54679 0 0 1 41.09358,0 q 0,13 0,13"
+             x1="842.1724915445321"
+             y1="711"
+             id="path1121" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -138.69081,0 q 0,-13 0,-13 a 17.97844,17.97844 0 0 1 35.95688,0 q 0,13 0,13"
+             x1="847.3091882750846"
+             y1="711"
+             id="path1123" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -210.60457,0 q 0,-13 0,-13 a 354.43208,354.43208 0 0 1 708.86415,0 q 0,13 0,13"
+             x1="775.3954340473506"
+             y1="711"
+             id="path1125" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -138.69081,0 q 0,-13 0,-13 a 64.208709,64.208709 0 0 1 128.417417,0 q 0,13 0,13"
+             x1="847.3091882750846"
+             y1="711"
+             id="path1127" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -303.06511,0 q 0,-13 0,-13 a 146.39586,146.39586 0 0 1 292.791717,0 q 0,13 0,13"
+             x1="682.9348928974069"
+             y1="711"
+             id="path1129" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -272.24493,0 q 0,-13 0,-13 a 130.98577,130.98577 0 0 1 261.971537,0 q 0,13 0,13"
+             x1="713.7550732807215"
+             y1="711"
+             id="path1131" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             transform="scale(1,-1)"
+             d="m -10.273393,0 q -9.576564,-26.311393 0,-28 9.57656355,1.688607 0,28"
+             x1="975.7266065388951"
+             y1="711"
+             id="path1133" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -87.323844,0 q 0,-13 0,-13 a 38.525226,38.525226 0 0 1 77.050451,0 q 0,13 0,13"
+             x1="898.6761555806088"
+             y1="711"
+             id="path1135" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -138.69081,0 q 0,-13 0,-13 a 43.661922,43.661922 0 0 1 87.323843,0 q 0,13 0,13"
+             x1="847.3091882750846"
+             y1="711"
+             id="path1137" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -138.69081,0 q 0,-13 0,-13 a 33.388529,33.388529 0 0 1 66.777056,0 q 0,13 0,13"
+             x1="847.3091882750846"
+             y1="711"
+             id="path1139" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -10.273393,0 q 0,-13 0,-13 a 77.050451,77.050451 0 0 1 154.100903,0 q 0,13 0,13"
+             x1="975.7266065388951"
+             y1="711"
+             id="path1141" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#ffff99"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -102.73393,0 q 0,-13 0,-13 a 123.28072,123.28072 0 0 1 246.56144,0 q 0,13 0,13"
+             x1="883.2660653889516"
+             y1="711"
+             id="path1143" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -303.06511,0 q 0,-13 0,-13 a 100.16559,100.16559 0 0 1 200.33118,0 q 0,13 0,13"
+             x1="682.9348928974069"
+             y1="711"
+             id="path1145" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -210.60457,0 q 0,-13 0,-13 a 53.93532,53.93532 0 0 1 107.87064,0 q 0,13 0,13"
+             x1="775.3954340473506"
+             y1="711"
+             id="path1147" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -195.19448,0 q 0,-13 0,-13 a 346.72703,346.72703 0 0 1 693.45406,0 q 0,13 0,13"
+             x1="790.8055242390079"
+             y1="711"
+             id="path1149" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -272.24493,0 q 0,-13 0,-13 a 84.7555,84.7555 0 0 1 169.511,0 q 0,13 0,13"
+             x1="713.7550732807215"
+             y1="711"
+             id="path1151" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -272.24493,0 q 0,-13 0,-13 a 385.25226,385.25226 0 0 1 770.50451,0 q 0,13 0,13"
+             x1="713.7550732807215"
+             y1="711"
+             id="path1153" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -138.69081,0 q 0,-13 0,-13 a 25.683484,25.683484 0 0 1 51.366966,0 q 0,13 0,13"
+             x1="847.3091882750846"
+             y1="711"
+             id="path1155" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -195.19448,0 q 0,-13 0,-13 a 92.460543,92.460543 0 0 1 184.921087,0 q 0,13 0,13"
+             x1="790.8055242390079"
+             y1="711"
+             id="path1157" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -102.73393,0 q 0,-13 0,-13 a 46.230271,46.230271 0 0 1 92.460537,0 q 0,13 0,13"
+             x1="883.2660653889516"
+             y1="711"
+             id="path1159" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -102.73393,0 q 0,-20.294955 0,-20.294955 a 7.7050451,7.7050451 0 0 1 15.410086,0 q 0,20.294955 0,20.294955"
+             x1="883.2660653889516"
+             y1="711"
+             id="path1161" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -159.2376,0 q 0,-13 0,-13 a 74.482104,74.482104 0 0 1 148.964207,0 q 0,13 0,13"
+             x1="826.7624013528748"
+             y1="711"
+             id="path1163" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -71.913754,0 q 0,-13 0,-13 a 30.82018,30.82018 0 0 1 61.640361,0 q 0,13 0,13"
+             x1="914.086245772266"
+             y1="711"
+             id="path1165" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#ffff99"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -102.73393,0 q 0,-13 0,-13 a 115.57568,115.57568 0 0 1 231.15135,0 q 0,13 0,13"
+             x1="883.2660653889516"
+             y1="711"
+             id="path1167" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -71.913754,0 q 0,-13 0,-13 a 285.08667,285.08667 0 0 1 570.173334,0 q 0,13 0,13"
+             x1="914.086245772266"
+             y1="711"
+             id="path1169" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -195.19448,0 q 0,-13 0,-13 a 46.230275,46.230275 0 0 1 92.46055,0 q 0,13 0,13"
+             x1="790.8055242390079"
+             y1="711"
+             id="path1171" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -87.323844,0 q 0,-13 0,-13 a 292.79171,292.79171 0 0 1 585.583424,0 q 0,13 0,13"
+             x1="898.6761555806088"
+             y1="711"
+             id="path1173" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -138.69081,0 q 0,-13 0,-13 a 30.82018,30.82018 0 0 1 61.640359,0 q 0,13 0,13"
+             x1="847.3091882750846"
+             y1="711"
+             id="path1175" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -10.273393,0 q 0,-13 0,-13 a 254.26649,254.26649 0 0 1 508.532973,0 q 0,13 0,13"
+             x1="975.7266065388951"
+             y1="711"
+             id="path1177" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -51.366967,0 q 0,-13 0,-13 a 274.81328,274.81328 0 0 1 549.626547,0 q 0,13 0,13"
+             x1="934.6330326944758"
+             y1="711"
+             id="path1179" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m -51.366967,0 q 0,-13 0,-13 a 20.546787,20.546787 0 0 1 41.093574,0 q 0,13 0,13"
+             x1="934.6330326944758"
+             y1="711"
+             id="path1181" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#ffff99"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m 128.41742,0 q 0,-13 0,-13 a 184.92108,184.92108 0 0 1 369.84216,0 q 0,13 0,13"
+             x1="1114.4174182638105"
+             y1="711"
+             id="path1183" />
+          <path
+             class="link"
+             fill="none"
+             stroke="#fdc086"
+             stroke-width="10"
+             stroke-opacity="0"
+             d="m 143.82751,0 q 0,-13 0,-13 a 177.21604,177.21604 0 0 1 354.43207,0 q 0,13 0,13"
+             x1="1129.827508455468"
+             y1="711"
+             id="path1185" />
+        </g>
+        <g
+           id="g1255">
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -143.82751,0 q 0,-13 0,-13 a 20.54679,20.54679 0 0 1 41.09358,0 q 0,13 0,13"
+             x1="842.1724915445321"
+             y1="711"
+             id="path1189" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -138.69081,0 q 0,-13 0,-13 a 17.97844,17.97844 0 0 1 35.95688,0 q 0,13 0,13"
+             x1="847.3091882750846"
+             y1="711"
+             id="path1191" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -210.60457,0 q 0,-13 0,-13 a 354.43208,354.43208 0 0 1 708.86415,0 q 0,13 0,13"
+             x1="775.3954340473506"
+             y1="711"
+             id="path1193" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -138.69081,0 q 0,-13 0,-13 a 64.208709,64.208709 0 0 1 128.417417,0 q 0,13 0,13"
+             x1="847.3091882750846"
+             y1="711"
+             id="path1195" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -303.06511,0 q 0,-13 0,-13 a 146.39586,146.39586 0 0 1 292.791717,0 q 0,13 0,13"
+             x1="682.9348928974069"
+             y1="711"
+             id="path1197" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -272.24493,0 q 0,-13 0,-13 a 130.98577,130.98577 0 0 1 261.971537,0 q 0,13 0,13"
+             x1="713.7550732807215"
+             y1="711"
+             id="path1199" />
+          <path
+             stroke="#a50f15"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -10.273393,0 q -9.576564,-26.311393 0,-28 9.57656355,1.688607 0,28"
+             transform="scale(1,-1)"
+             x1="975.7266065388951"
+             y1="711"
+             id="path1201" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -87.323844,0 q 0,-13 0,-13 a 38.525226,38.525226 0 0 1 77.050451,0 q 0,13 0,13"
+             x1="898.6761555806088"
+             y1="711"
+             id="path1203" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -138.69081,0 q 0,-13 0,-13 a 43.661922,43.661922 0 0 1 87.323843,0 q 0,13 0,13"
+             x1="847.3091882750846"
+             y1="711"
+             id="path1205" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -138.69081,0 q 0,-13 0,-13 a 33.388529,33.388529 0 0 1 66.777056,0 q 0,13 0,13"
+             x1="847.3091882750846"
+             y1="711"
+             id="path1207" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -10.273393,0 q 0,-13 0,-13 a 77.050451,77.050451 0 0 1 154.100903,0 q 0,13 0,13"
+             x1="975.7266065388951"
+             y1="711"
+             id="path1209" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -102.73393,0 q 0,-13 0,-13 a 123.28072,123.28072 0 0 1 246.56144,0 q 0,13 0,13"
+             x1="883.2660653889516"
+             y1="711"
+             id="path1211" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -303.06511,0 q 0,-13 0,-13 a 100.16559,100.16559 0 0 1 200.33118,0 q 0,13 0,13"
+             x1="682.9348928974069"
+             y1="711"
+             id="path1213" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -210.60457,0 q 0,-13 0,-13 a 53.93532,53.93532 0 0 1 107.87064,0 q 0,13 0,13"
+             x1="775.3954340473506"
+             y1="711"
+             id="path1215" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -195.19448,0 q 0,-13 0,-13 a 346.72703,346.72703 0 0 1 693.45406,0 q 0,13 0,13"
+             x1="790.8055242390079"
+             y1="711"
+             id="path1217" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -272.24493,0 q 0,-13 0,-13 a 84.7555,84.7555 0 0 1 169.511,0 q 0,13 0,13"
+             x1="713.7550732807215"
+             y1="711"
+             id="path1219" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -272.24493,0 q 0,-13 0,-13 a 385.25226,385.25226 0 0 1 770.50451,0 q 0,13 0,13"
+             x1="713.7550732807215"
+             y1="711"
+             id="path1221" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -138.69081,0 q 0,-13 0,-13 a 25.683484,25.683484 0 0 1 51.366966,0 q 0,13 0,13"
+             x1="847.3091882750846"
+             y1="711"
+             id="path1223" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -195.19448,0 q 0,-13 0,-13 a 92.460543,92.460543 0 0 1 184.921087,0 q 0,13 0,13"
+             x1="790.8055242390079"
+             y1="711"
+             id="path1225" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -102.73393,0 q 0,-13 0,-13 a 46.230271,46.230271 0 0 1 92.460537,0 q 0,13 0,13"
+             x1="883.2660653889516"
+             y1="711"
+             id="path1227" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -102.73393,0 q 0,-20.294955 0,-20.294955 a 7.7050451,7.7050451 0 0 1 15.410086,0 q 0,20.294955 0,20.294955"
+             x1="883.2660653889516"
+             y1="711"
+             id="path1229" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -159.2376,0 q 0,-13 0,-13 a 74.482104,74.482104 0 0 1 148.964207,0 q 0,13 0,13"
+             x1="826.7624013528748"
+             y1="711"
+             id="path1231" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -71.913754,0 q 0,-13 0,-13 a 30.82018,30.82018 0 0 1 61.640361,0 q 0,13 0,13"
+             x1="914.086245772266"
+             y1="711"
+             id="path1233" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -102.73393,0 q 0,-13 0,-13 a 115.57568,115.57568 0 0 1 231.15135,0 q 0,13 0,13"
+             x1="883.2660653889516"
+             y1="711"
+             id="path1235" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -71.913754,0 q 0,-13 0,-13 a 285.08667,285.08667 0 0 1 570.173334,0 q 0,13 0,13"
+             x1="914.086245772266"
+             y1="711"
+             id="path1237" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -195.19448,0 q 0,-13 0,-13 a 46.230275,46.230275 0 0 1 92.46055,0 q 0,13 0,13"
+             x1="790.8055242390079"
+             y1="711"
+             id="path1239" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -87.323844,0 q 0,-13 0,-13 a 292.79171,292.79171 0 0 1 585.583424,0 q 0,13 0,13"
+             x1="898.6761555806088"
+             y1="711"
+             id="path1241" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -138.69081,0 q 0,-13 0,-13 a 30.82018,30.82018 0 0 1 61.640359,0 q 0,13 0,13"
+             x1="847.3091882750846"
+             y1="711"
+             id="path1243" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -10.273393,0 q 0,-13 0,-13 a 254.26649,254.26649 0 0 1 508.532973,0 q 0,13 0,13"
+             x1="975.7266065388951"
+             y1="711"
+             id="path1245" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -51.366967,0 q 0,-13 0,-13 a 274.81328,274.81328 0 0 1 549.626547,0 q 0,13 0,13"
+             x1="934.6330326944758"
+             y1="711"
+             id="path1247" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m -51.366967,0 q 0,-13 0,-13 a 20.546787,20.546787 0 0 1 41.093574,0 q 0,13 0,13"
+             x1="934.6330326944758"
+             y1="711"
+             id="path1249" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m 128.41742,0 q 0,-13 0,-13 a 184.92108,184.92108 0 0 1 369.84216,0 q 0,13 0,13"
+             x1="1114.4174182638105"
+             y1="711"
+             id="path1251" />
+          <path
+             stroke="#9970ab"
+             class="link"
+             fill="none"
+             stroke-width="1.3"
+             d="m 143.82751,0 q 0,-13 0,-13 a 177.21604,177.21604 0 0 1 354.43207,0 q 0,13 0,13"
+             x1="1129.827508455468"
+             y1="711"
+             id="path1253" />
+        </g>
+        <text
+           text-anchor="end"
+           fill="#000000"
+           x="0"
+           y="10"
+           class="protein xlv_text proteinLabel"
+           font-family="Arial"
+           font-size="16px"
+           transform="translate(-518.533,-5)"
+           id="text1257">YP_009725304.1</text>
+        <rect
+           stroke="#000000"
+           stroke-width="1"
+           fill="#ffffff"
+           ry="0"
+           rx="0"
+           height="20"
+           width="1017.066"
+           y="-10"
+           x="-505.96463"
+           fill-opacity="0"
+           stroke-opacity="1"
+           id="rect1259" />
+        <g
+           opacity="1"
+           id="g1343">
+          <g
+             transform="translate(-503.39628)"
+             id="g1263">
+            <text
+               class="protein xlv_text proteinLabel"
+               font-family="'Courier New', monospace"
+               font-size="14px"
+               text-anchor="middle"
+               x="0"
+               y="24"
+               id="text1261">1</text>
+          </g>
+          <line
+             x1="-457.16602"
+             y1="5"
+             x2="-457.16602"
+             y2="10"
+             stroke="#000000"
+             id="line1265" />
+          <line
+             x1="-405.79904"
+             y1="5"
+             x2="-405.79904"
+             y2="10"
+             stroke="#000000"
+             id="line1267" />
+          <g
+             transform="translate(-405.79904)"
+             id="g1271">
+            <text
+               class="protein xlv_text proteinLabel"
+               font-family="'Courier New', monospace"
+               font-size="14px"
+               text-anchor="middle"
+               x="0"
+               y="24"
+               id="text1269">20</text>
+          </g>
+          <line
+             x1="-354.43207"
+             y1="5"
+             x2="-354.43207"
+             y2="10"
+             stroke="#000000"
+             id="line1273" />
+          <line
+             x1="-303.06509"
+             y1="5"
+             x2="-303.06509"
+             y2="10"
+             stroke="#000000"
+             id="line1275" />
+          <g
+             transform="translate(-303.06511)"
+             id="g1279">
+            <text
+               class="protein xlv_text proteinLabel"
+               font-family="'Courier New', monospace"
+               font-size="14px"
+               text-anchor="middle"
+               x="0"
+               y="24"
+               id="text1277">40</text>
+          </g>
+          <line
+             x1="-251.69814"
+             y1="5"
+             x2="-251.69814"
+             y2="10"
+             stroke="#000000"
+             id="line1281" />
+          <line
+             x1="-200.33118"
+             y1="5"
+             x2="-200.33118"
+             y2="10"
+             stroke="#000000"
+             id="line1283" />
+          <g
+             transform="translate(-200.33117)"
+             id="g1287">
+            <text
+               class="protein xlv_text proteinLabel"
+               font-family="'Courier New', monospace"
+               font-size="14px"
+               text-anchor="middle"
+               x="0"
+               y="24"
+               id="text1285">60</text>
+          </g>
+          <line
+             x1="-148.9642"
+             y1="5"
+             x2="-148.9642"
+             y2="10"
+             stroke="#000000"
+             id="line1289" />
+          <line
+             x1="-97.597237"
+             y1="5"
+             x2="-97.597237"
+             y2="10"
+             stroke="#000000"
+             id="line1291" />
+          <g
+             transform="translate(-97.597238)"
+             id="g1295">
+            <text
+               class="protein xlv_text proteinLabel"
+               font-family="'Courier New', monospace"
+               font-size="14px"
+               text-anchor="middle"
+               x="0"
+               y="24"
+               id="text1293">80</text>
+          </g>
+          <line
+             x1="-46.23027"
+             y1="5"
+             x2="-46.23027"
+             y2="10"
+             stroke="#000000"
+             id="line1297" />
+          <line
+             x1="5.1366968"
+             y1="5"
+             x2="5.1366968"
+             y2="10"
+             stroke="#000000"
+             id="line1299" />
+          <g
+             transform="translate(5.1366967)"
+             id="g1303">
+            <text
+               class="protein xlv_text proteinLabel"
+               font-family="'Courier New', monospace"
+               font-size="14px"
+               text-anchor="middle"
+               x="0"
+               y="24"
+               id="text1301">100</text>
+          </g>
+          <line
+             x1="56.503666"
+             y1="5"
+             x2="56.503666"
+             y2="10"
+             stroke="#000000"
+             id="line1305" />
+          <line
+             x1="107.87063"
+             y1="5"
+             x2="107.87063"
+             y2="10"
+             stroke="#000000"
+             id="line1307" />
+          <g
+             transform="translate(107.87063)"
+             id="g1311">
+            <text
+               class="protein xlv_text proteinLabel"
+               font-family="'Courier New', monospace"
+               font-size="14px"
+               text-anchor="middle"
+               x="0"
+               y="24"
+               id="text1309">120</text>
+          </g>
+          <line
+             x1="159.23759"
+             y1="5"
+             x2="159.23759"
+             y2="10"
+             stroke="#000000"
+             id="line1313" />
+          <line
+             x1="210.60457"
+             y1="5"
+             x2="210.60457"
+             y2="10"
+             stroke="#000000"
+             id="line1315" />
+          <g
+             transform="translate(210.60457)"
+             id="g1319">
+            <text
+               class="protein xlv_text proteinLabel"
+               font-family="'Courier New', monospace"
+               font-size="14px"
+               text-anchor="middle"
+               x="0"
+               y="24"
+               id="text1317">140</text>
+          </g>
+          <line
+             x1="261.97153"
+             y1="5"
+             x2="261.97153"
+             y2="10"
+             stroke="#000000"
+             id="line1321" />
+          <line
+             x1="313.3385"
+             y1="5"
+             x2="313.3385"
+             y2="10"
+             stroke="#000000"
+             id="line1323" />
+          <g
+             transform="translate(313.3385)"
+             id="g1327">
+            <text
+               class="protein xlv_text proteinLabel"
+               font-family="'Courier New', monospace"
+               font-size="14px"
+               text-anchor="middle"
+               x="0"
+               y="24"
+               id="text1325">160</text>
+          </g>
+          <line
+             x1="364.70547"
+             y1="5"
+             x2="364.70547"
+             y2="10"
+             stroke="#000000"
+             id="line1329" />
+          <line
+             x1="416.07245"
+             y1="5"
+             x2="416.07245"
+             y2="10"
+             stroke="#000000"
+             id="line1331" />
+          <g
+             transform="translate(416.07244)"
+             id="g1335">
+            <text
+               class="protein xlv_text proteinLabel"
+               font-family="'Courier New', monospace"
+               font-size="14px"
+               text-anchor="middle"
+               x="0"
+               y="24"
+               id="text1333">180</text>
+          </g>
+          <line
+             x1="467.43939"
+             y1="5"
+             x2="467.43939"
+             y2="10"
+             stroke="#000000"
+             id="line1337" />
+          <g
+             transform="translate(508.53298)"
+             id="g1341">
+            <text
+               class="protein xlv_text proteinLabel"
+               font-family="'Courier New', monospace"
+               font-size="14px"
+               text-anchor="middle"
+               x="0"
+               y="24"
+               id="text1339">198</text>
+          </g>
+        </g>
+        <g
+           opacity="0"
+           id="g1345" />
+        <g
+           transform="translate(-523.46463)"
+           id="g1359">
+          <circle
+             r="14"
+             stroke="none"
+             fill="#808080"
+             fill-opacity="0"
+             id="circle1347"
+             cx="0"
+             cy="0" />
+          <g
+             class="PV_rotator"
+             id="g1357">
+            <g
+               transform="matrix(0.49497475,0.49497475,-0.49497475,0.49497475,0,0)"
+               display="none"
+               id="g1355">
+              <circle
+                 r="20"
+                 stroke="#000000"
+                 stroke-width="1"
+                 fill="none"
+                 id="circle1349"
+                 cx="0"
+                 cy="0" />
+              <path
+                 d="M 19.818182,-3 16,3.10345 h 7.636363 z"
+                 stroke="#000000"
+                 stroke-width="1"
+                 fill="#000000"
+                 id="path1351" />
+              <path
+                 d="M 19.818182,-3 16,3.10345 h 7.636363 z"
+                 stroke="#000000"
+                 stroke-width="1"
+                 fill="#000000"
+                 transform="scale(-1)"
+                 id="path1353" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="translate(528.60132)"
+           id="g1373">
+          <circle
+             r="14"
+             stroke="none"
+             fill="#808080"
+             fill-opacity="0"
+             id="circle1361"
+             cx="0"
+             cy="0" />
+          <g
+             class="PV_rotator"
+             id="g1371">
+            <g
+               transform="matrix(0.49497475,0.49497475,-0.49497475,0.49497475,0,0)"
+               display="none"
+               id="g1369">
+              <circle
+                 r="20"
+                 stroke="#000000"
+                 stroke-width="1"
+                 fill="none"
+                 id="circle1363"
+                 cx="0"
+                 cy="0" />
+              <path
+                 d="M 19.818182,-3 16,3.10345 h 7.636363 z"
+                 stroke="#000000"
+                 stroke-width="1"
+                 fill="#000000"
+                 id="path1365" />
+              <path
+                 d="M 19.818182,-3 16,3.10345 h 7.636363 z"
+                 stroke="#000000"
+                 stroke-width="1"
+                 fill="#000000"
+                 transform="scale(-1)"
+                 id="path1367" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect
+     fill="#ffffff"
+     stroke="#ffffff"
+     class="tooltip_bg"
+     opacity="1"
+     stroke-width="1"
+     display="none"
+     x="16.439341"
+     y="-266.61954"
+     width="643.28125"
+     height="28"
+     id="rect1379" />
+  <rect
+     class="tooltip_bg"
+     fill-opacity="0.75"
+     stroke-opacity="1"
+     stroke-width="1"
+     display="none"
+     x="16.439341"
+     y="-266.61954"
+     width="643.28125"
+     fill="#ffffff"
+     stroke="#808080"
+     height="28"
+     id="rect1381" />
+  <text
+     x="22.439341"
+     y="-247.61954"
+     display="none"
+     id="text1383">YP_009725304.1_124-YP_009725304.1_196 (1 match), top score:81.57</text>
+</svg>

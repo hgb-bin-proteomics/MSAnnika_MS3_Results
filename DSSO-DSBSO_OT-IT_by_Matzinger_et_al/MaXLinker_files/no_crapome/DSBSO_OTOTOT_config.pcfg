@@ -1,0 +1,30 @@
+##1: Mass spectrometry file input
+#
+Input_path=C:/Users/P42587/Documents/00_XL-MS/MaxLinker/Matzinger et al
+#
+MS2=DSBSO_OTOTOT_[Node_07].mgf
+#
+MS3=DSBSO_OTOTOT_[Node_09].mgf
+#
+MS3_MSn-1=DSBSO_OTOTOT_MS3.mgf
+#
+MS2_DeisoDeconv=DSBSO_OTOTOT_[Node_05].mgf
+
+##2: Output
+#
+Output_path=C:/Users/P42587/Documents/00_XL-MS/MaxLinker/Matzinger et al
+#
+Output_file_suffix=DSBSO_OTOTOT_MS2_rescue.mgf
+
+##3: Linker parameters
+#
+Linker_mass=308.038830
+#
+Linker_long_mass=236.017700
+#
+Linker_short_mass=54.010565
+
+##4: Multithreading
+#Maximum no. of threads
+No_of_threads=1
+

@@ -1,0 +1,54 @@
+##1: Mass spectrometry file input
+#
+Input_path=C:/Users/P42587/Documents/00_XL-MS/MaxLinker/Matzinger et al
+#
+MS1=DSBSO_OTOTOT.dta.zip
+#
+MS2=DSBSO_OTOTOT_[Node_07].mgf
+#
+MS3=DSBSO_OTOTOT_[Node_09].mgf
+#
+MS3_MSn-1=DSBSO_OTOTOT_MS3.mgf
+#
+MS2_DeisoDeconv=DSBSO_OTOTOT_[Node_05].mgf
+#
+MS3_PSM=DSBSO_OTOTOT_MS3.tsv
+#
+MS2_Rescue_PSM=DSBSO_OTOTOT_MS2_rescue.tsv
+
+##2: Database file input
+#
+Database=C:/Users/P42587/Documents/00_XL-MS/MaxLinker/Matzinger et al/Ribosome_for_XL_all_contained_Proteins_from_shotgun_MaxLinker.fasta
+
+##3: Output
+#
+Output_path=C:/Users/P42587/Documents/00_XL-MS/MaxLinker/Matzinger et al
+#Result output prefix
+Output_file_suffix=DSBSO_OTOTOT_out.tsv
+#
+Batch_output_file=DSBSO_OTOTOT_uniq.tsv
+
+##4: linker parameters
+#
+Linker_mass=308.038830
+#
+Linker_long_mass=236.017700
+#
+Linker_short_mass=54.010565
+#
+Linker_long_name=DSBSO-l
+#
+Linker_short_name=DSBSO-s
+
+##5: Scoring parameters
+#
+FDR(%)=1.0
+
+##6: Module mode selection
+#
+MS2_rescue_mode=YES
+
+##7: Multithreading
+#Maximum no. of threads
+No_of_threads=1
+

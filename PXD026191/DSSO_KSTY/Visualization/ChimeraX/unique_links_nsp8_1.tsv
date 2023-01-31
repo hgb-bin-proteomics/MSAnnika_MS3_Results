@@ -1,0 +1,29 @@
+Row in evidence file	Pseudobond	Overlap category	Distance (A)
+2	#1/B:97@CA #1/B:97@CA	Overlapping (self)	
+2	#1/B:97@CA #1/D:97@CA	Overlap associated	14.899136518604022
+2	#1/D:97@CA #1/D:97@CA	Overlapping (self)	
+3	No pseudobonds		
+4	No pseudobonds		
+5	No pseudobonds		
+6	No pseudobonds		
+7	No pseudobonds		
+8	No pseudobonds		
+9	No pseudobonds		
+10	No pseudobonds		
+11	#1/B:124@CA #1/B:79@CA	Not overlap associated	41.98167812272396
+11	#1/B:124@CA #1/D:79@CA	Not overlap associated	25.556450731664597
+11	#1/B:79@CA #1/D:124@CA	Not overlap associated	26.44414545792698
+11	#1/D:124@CA #1/D:79@CA	Not overlap associated	43.90136878276121
+12	No pseudobonds		
+13	No pseudobonds		
+14	No pseudobonds		
+15	#1/B:79@CA #1/B:97@CA	Not overlap associated	26.805581769474806
+15	#1/B:79@CA #1/D:97@CA	Not overlap associated	29.098299383297306
+15	#1/B:97@CA #1/D:79@CA	Not overlap associated	28.971744200168548
+15	#1/D:79@CA #1/D:97@CA	Not overlap associated	26.686593244548845
+16	No pseudobonds		
+17	#1/B:85@CA #1/B:97@CA	Not overlap associated	18.403211703395687
+17	#1/B:85@CA #1/D:97@CA	Not overlap associated	24.7765372479691
+17	#1/B:97@CA #1/D:85@CA	Not overlap associated	24.817080287576132
+17	#1/D:85@CA #1/D:97@CA	Not overlap associated	18.361796780271806
+18	No pseudobonds		

@@ -1,0 +1,16 @@
+DSBSO
+H16C11O6S2
+308.038830 (mono)
+308.373746 (avg)
+
+Short:
+DSBSO-s
+C3H2O
+54.010565 (mono)
+54.047494 (avg)
+
+Long:
+DSBSO-l
+C8H12O4S2
+236.017700 (mono)
+236.310965 (avg)
