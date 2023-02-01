@@ -1,4 +1,4 @@
-# Result and Evaluation of the MS3 Search with MS Annika
+# Results and Evaluation of the MS3 Search Algorithm of MS Annika
 
 Evalution of the MS2-MS3 search algorithm of [MS Annika](https://ms.imp.ac.at/index.php?action=ms-annika) on selected datasets:
 - [Synthetic peptide library by Matzinger et al.](https://doi.org/10.1038/s41467-022-31701-w) (raw data not yet published)
