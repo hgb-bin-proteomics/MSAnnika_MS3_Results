@@ -22,7 +22,7 @@ ggplot(df, aes(x=Tool, y=value, fill=variable_coloring_fct)) +
                     labels = c(rep("T", 4), rep("F", 4))) +
   facet_grid(~ `Dataset`) +
   xlab("Tool") +
-  ylab("Number of identified Crosslinks at 1% FDR") +
+  ylab("Number of identified Crosslinks at 1% estimated FDR") +
   ylim(c(0, 505)) +
   labs(fill="Crosslinks\n(True/False)") +
   geom_bar_text(aes(label = value),
